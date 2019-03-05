@@ -1,4 +1,6 @@
 # About This Project
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkysel%2Fcommon.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkysel%2Fcommon?ref=badge_shield)
+
 
 This project contains ...
 
@@ -9,3 +11,6 @@ This project contains ...
 Founded in April 2017, NUKE is a free, open-source build automation system for C#/.NET that runs cross-platform on .NET Core, .NET Framework, and Mono. While builds are bootstrapped with conventional Bash or PowerShell scripts, their actual implementation resides in simple [C# console applications](http://www.nuke.build/docs/authoring-builds/fundamentals.html). This approach unleashes the power of the type system and natively provides IDE features like code-completion, refactorings, and debugging. A custom [global tool](http://www.nuke.build/docs/running-builds/global-tool.html) and several [IDE extensions](http://www.nuke.build/docs/running-builds/from-ides.html) further improve how build projects are setup, authored and executed.
 
 For more information, visit the [official website](https://nuke.build) or the [main repository](https://github.com/nuke-build/nuke).
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkysel%2Fcommon.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkysel%2Fcommon?ref=badge_large)
